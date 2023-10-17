@@ -32,7 +32,7 @@ header{
     color: white;
     letter-spacing: 3px;
     font-size: 34px;
-    font-family: Arial;
+    font-family: monospace;
     margin: 0;
     cursor: pointer;
 }
@@ -183,7 +183,7 @@ h1.title{
     text-align: center;
     letter-spacing: 3px;
     font-size: 35px;
-    font-family: cursive;
+    font-family: monospace;
     font-weight: 500;
     padding-top: 20px;
 }
@@ -267,7 +267,7 @@ h1.titl{
     text-align: center;
     letter-spacing: 3px;
     font-size: 35px;
-    font-family: cursive;
+    font-family: monospace;
     font-weight: 500;
     
 }
