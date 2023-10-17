@@ -32,7 +32,7 @@ header{
     color: white;
     letter-spacing: 3px;
     font-size: 34px;
-    font-family: cursive;
+    font-family: Arial;
     margin: 0;
     cursor: pointer;
 }
@@ -55,7 +55,7 @@ nav li a {
     color: white;
     font-weight: 600;
     font-size: 17px;
-    font-family: cursive;
+    font-family: Arial;
     letter-spacing: 2px;
     padding: 0px;
 }
@@ -120,7 +120,7 @@ section {
 .me p{
     text-align: justify;
     color: aliceblue;
-    font-family: cursive;
+    font-family: Arial;
     letter-spacing: 3px;
     font-size: 17px;
     
