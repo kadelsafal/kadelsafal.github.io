@@ -17,7 +17,7 @@ header{
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 111;
+    z-index: 999;
     box-shadow: 0 2px 25px 1px rgb(161, 129, 223);
 }
 .contain{
@@ -292,6 +292,7 @@ h1.titl{
     transition: transform 1800ms;
     transform-style: preserve-3d;
     z-index:0;
+    overflow:hidden;
 }
 .box:hover {
     cursor: pointer;
@@ -307,6 +308,8 @@ h1.titl{
     border-radius: 4rem;
     text-align: center;
     box-shadow: 0 2px 25px 1px rgb(138, 108, 197);
+    z-index:0;
+    overflow:hidden;
 }
 .front{
     color: white;    
@@ -827,6 +830,8 @@ nav a.active{
             border-radius: 4rem;
             text-align: center;
             box-shadow: 0 2px 25px 1px rgb(138, 108, 197);
+            z-index:0;
+            overflow:hidden;
         }
         .front{
             color: white;    
