@@ -292,7 +292,7 @@ h1.titl{
     transition: transform 1800ms;
     transform-style: preserve-3d;
     z-index:0;
-    overflow:hidden;
+    
 }
 .box:hover {
     cursor: pointer;
@@ -309,7 +309,7 @@ h1.titl{
     text-align: center;
     box-shadow: 0 2px 25px 1px rgb(138, 108, 197);
     z-index:0;
-    overflow:hidden;
+    
 }
 .front{
     color: white;    
@@ -831,7 +831,7 @@ nav a.active{
             text-align: center;
             box-shadow: 0 2px 25px 1px rgb(138, 108, 197);
             z-index:0;
-            overflow:hidden;
+            
         }
         .front{
             color: white;    
